@@ -1,0 +1,26 @@
+.search input {
+  width: 350px;
+  background-color: #fff;
+  height: 18px;
+  outline: none;
+  padding: 5px;
+  margin-top: 20px;
+  margin-right: 10px;
+  border-radius: 10px;
+  
+}
+  
+.search button {
+  text-transform: uppercase;
+  height: 32px;
+  width: 80px;
+  background-color:#FF0000 ;
+  border-radius: 10px;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  outline: none;
+  margin-right: 10px;
+}
+  
